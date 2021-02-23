@@ -1,6 +1,6 @@
 spring: 
   datasource:
-    url: jdbc:postgresql://localhost:5432/fornecedores-micro
+    url: jdbc:postgresql://localhost:5432/fornecedor-micro
     password: kaka18
     username: postgres
 
