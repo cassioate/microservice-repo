@@ -1,0 +1,10 @@
+spring: 
+  datasource:
+    url: jdbc:postgresql://localhost:5432/transportador-micro
+    password: kaka18
+    username: postgres
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
